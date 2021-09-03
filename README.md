@@ -1,2 +1,2 @@
 # UDP_forwarder
-UDP_forwarder to forward UPD packets betwrrn two network interfaces
+UDP_forwarder to forward UPD packets between two network interfaces
